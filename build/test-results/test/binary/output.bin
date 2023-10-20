@@ -1,0 +1,284 @@
+Request method:	POST
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+S{"Email":"hola@hola167811.com","FullName":"Luciano Vargas","Password":"hola1234"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=h1tnkld3ltqsvkbufrcuhlk5; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:06 GMT
+Content-Length: 298
+
+{
+    "Id": 751664,
+$    "Email": "hola@hola167811.com",
+    "Password": null,
+"    "FullName": "Luciano Vargas",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4155786,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	POST
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+S{"Email":"hola@hola167822.com","FullName":"Luciano Vargas","Password":"hola1234"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=kj1jdbuejens3s5ej0tum4p3; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:08 GMT
+Content-Length: 298
+
+{
+    "Id": 751665,
+$    "Email": "hola@hola167822.com",
+    "Password": null,
+"    "FullName": "Luciano Vargas",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4155792,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	POST
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+S{"Email":"hola@hola167833.com","FullName":"Luciano Vargas","Password":"hola1234"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=cumtk41d3pxf4bcwfkrspwz3; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:10 GMT
+Content-Length: 298
+
+{
+    "Id": 751666,
+$    "Email": "hola@hola167833.com",
+    "Password": null,
+"    "FullName": "Luciano Vargas",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4155798,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	POST
+,Request URI:	https://todo.ly/api/user.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+1				Content-Type=text/plain; charset=ISO-8859-1
+Cookies:		<none>
+Multiparts:		<none>
+Body:
+S{"Email":"hola@hola167844.com","FullName":"Luciano Vargas","Password":"hola1234"}
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=ybma4rsjxh1jrfcyt344nwhe; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:12 GMT
+Content-Length: 298
+
+{
+    "Id": 751667,
+$    "Email": "hola@hola167844.com",
+    "Password": null,
+"    "FullName": "Luciano Vargas",
+    "TimeZone": 0,
+    "IsProUser": false,
+!    "DefaultProjectId": 4155804,
+"    "AddItemMoreExpanded": false,
+&    "EditDueDateMoreExpanded": false,
+    "ListSortType": 0,
+    "FirstDayOfWeek": 0,
+    "NewTaskDueDate": -1,
+*    "TimeZoneId": "Pacific Standard Time"
+}
+Request method:	DELETE
+3Request URI:	https://todo.ly/api/user/751667.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=nxuswpmxsdqhrk4om435rtsy; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:13 GMT
+Content-Length: 52
+
+{
+)    "ErrorMessage": "Not Authenticated",
+    "ErrorCode": 102
+}
+Request method:	DELETE
+3Request URI:	https://todo.ly/api/user/751666.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=qgmka4ac1rzq1pg0be1ehomy; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:14 GMT
+Content-Length: 52
+
+{
+)    "ErrorMessage": "Not Authenticated",
+    "ErrorCode": 102
+}
+Request method:	DELETE
+3Request URI:	https://todo.ly/api/user/751665.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=eujguw1orswrlcfg1zhgot0a; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:16 GMT
+Content-Length: 52
+
+{
+)    "ErrorMessage": "Not Authenticated",
+    "ErrorCode": 102
+}
+Request method:	DELETE
+3Request URI:	https://todo.ly/api/user/751664.json
+Proxy:			<none>
+Request params:	<none>
+Query params:	<none>
+Form params:	<none>
+Path params:	<none>
+DHeaders:		Authorization=Basic bHV0eXZyMDJAZ21haWwuY29tOmhvbGExMjM0
+				Accept=*/*
+Cookies:		<none>
+Multiparts:		<none>
+Body:			<none>
+HTTP/1.1 200 OK
+4Cache-Control: no-cache, no-store, must-revalidate
+Pragma: no-cache
+/Content-Type: application/json; charset=utf-8
+Expires: -1
+Server: Microsoft-IIS/8.0
+XSet-Cookie: ASP.NET_SessionId=jwmxt5m5md2ak0i5n4a1r5mm; path=/; HttpOnly; SameSite=Lax
+X-AspNetMvc-Version: 2.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+%Date: Fri, 20 Oct 2023 21:45:17 GMT
+Content-Length: 52
+
+{
+)    "ErrorMessage": "Not Authenticated",
+    "ErrorCode": 102
+}
