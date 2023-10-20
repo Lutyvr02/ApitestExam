@@ -102,7 +102,7 @@ public class CRUDTest extends TestBaseAuthBasic {
         }
     }
 
-    private void createProject(String host, JSONObject body, String post) {
+    private void createProject(String host, JSONObject body, String post)  {
         requestInfo.setUrl(host)
                 .setBody(body.toString());
         response = FactoryRequest.make(post).send(requestInfo);
